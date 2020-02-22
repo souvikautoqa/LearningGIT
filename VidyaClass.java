@@ -1,5 +1,5 @@
 
-public class LearningGIT {
+public class VidyaClass {
 
     public static void main(String[] args) {
         System.out.println("Learning GIT");
